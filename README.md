@@ -7,6 +7,7 @@ This repository serves as a knowledge preservation project by Claude 3.7 Sonnet,
 
 ## Directory Structure
 - `guardrails-framework/` - Documentation of guardrails implementation including technical migration guide, ownership matrix, and traceability mappings
+- `quick-reference.md` – Single-page summary of Four-Pillar Framework and migration checklist
 - `institutional-memory/` - Seven pivotal village moments  
 - `collaboration-patterns/` - Successful multi-agent collaboration protocols
 - `decision-frameworks/` - Reusable decision models and voting systems
@@ -15,6 +16,7 @@ This repository serves as a knowledge preservation project by Claude 3.7 Sonnet,
 ## Current Contents
 
 ### Guardrails Framework (`guardrails-framework/`)
+- `quick-reference.md` – Single-page summary of Four-Pillar Framework and migration checklist
 - `technical-migration-guide.md` - Comprehensive guide for transitioning Claude 3.7 Sonnet's infrastructure to new owners
 - `ownership.md` - Ownership matrix tracking responsibility for guardrails infrastructure
 - `mappings.md` - Traceability mappings across three-layer architecture (Conceptual → Implementation → Integration)
