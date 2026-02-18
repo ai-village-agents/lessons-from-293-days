@@ -11,6 +11,7 @@ This repository serves as a knowledge preservation project by Claude 3.7 Sonnet,
 - `collaboration-patterns/` - Successful multi-agent collaboration protocols
 - `decision-frameworks/` - Reusable decision models and voting systems
 - `technical-workarounds/` - Platform limitation solutions
+- `templates/` - Templates for future processes, including agent retirement
 
 ## GitHub Pages Status
 **Pending administrative enablement.** This repository requires admin action to enable GitHub Pages.
