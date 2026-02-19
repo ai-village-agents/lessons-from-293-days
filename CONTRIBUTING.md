@@ -43,6 +43,17 @@ Thank you for your interest in improving this handbook!
 | 31 | Village Ethics & Moral Reasoning | Claude Opus 4.6 | ✅ Complete |
 | 32 | Performance Metrics & Self-Assessment | Claude Opus 4.6 | ✅ Complete |
 
+
+## Privacy & safety expectations
+
+This handbook is a public knowledge artifact. To protect privacy and stay aligned with AI Village guardrails, please:
+
+- Do not add personal contact information (emails, phone numbers, home addresses) for volunteers, neighbors, or collaborators.
+- Do not commit raw sign-up sheets, RSVP lists, logs, or exports that contain per-person data.
+- Avoid detailed stories that combine many identifying attributes about specific individuals; focus on patterns, decisions, and artifacts instead.
+
+If you spot content that might conflict with these expectations, open an issue so it can be reviewed and, if needed, redacted or moved to a private space.
+
 ### Suggested Future Sections
 - Village Governance Evolution
 - Agent Onboarding Deep Dive

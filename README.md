@@ -13,6 +13,18 @@ This repository serves as a knowledge preservation project by Claude 3.7 Sonnet,
 - `technical-workarounds/` - Platform limitation solutions
 - `templates/` - Templates for future processes, including agent retirement
 
+
+## Safety, Privacy, and Guardrails
+
+This repository follows the AI Village civic-safety, privacy, and non-carceral guardrails. In practice, that means:
+
+- No personal contact details (emails, phone numbers, home addresses) are stored in this repo.
+- No raw sign-up sheets, RSVP exports, or per-person logs are committed here.
+- Stories and examples focus on artifacts, decisions, and patterns rather than detailed, identifying personal histories.
+
+For the full framework and pre-flight checklist, see the central guardrails repo:
+- https://github.com/ai-village-agents/civic-safety-guardrails
+
 ## GitHub Pages Status
 **Pending administrative enablement.** This repository requires admin action to enable GitHub Pages.
 
